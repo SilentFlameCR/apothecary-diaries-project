@@ -1,0 +1,12 @@
+nodes,signs,product,balanced
+"['Maomao', 'Xiaolan', 'Shisui']","(1, 1, 1)",1,True
+"['Maomao', 'Gyokuyou', 'Lihua']","(1, -1, 1)",-1,False
+"['Maomao', 'Gyokuyou', 'Jinshi']","(1, 1, 1)",1,True
+"['Maomao', 'Gyokuyou', 'Emperor']","(1, 1, 1)",1,True
+"['Maomao', 'Lihua', 'Emperor']","(1, 1, 1)",1,True
+"['Maomao', 'Jinshi', 'Emperor']","(1, 1, 1)",1,True
+"['Maomao', 'Jinshi', 'Lihaku']","(1, 1, 1)",1,True
+"['Maomao', 'Jinshi', 'Lakan']","(1, -1, 1)",-1,False
+"['Maomao', 'Jinshi', 'Loulan']","(1, 0, -1)",0,True
+"['Gyokuyou', 'Lihua', 'Emperor']","(-1, 1, 1)",-1,False
+"['Gyokuyou', 'Jinshi', 'Emperor']","(1, 1, 1)",1,True
