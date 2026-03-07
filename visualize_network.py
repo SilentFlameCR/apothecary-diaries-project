@@ -1,13 +1,32 @@
 import pandas as pd
 import networkx as nx
 import matplotlib.pyplot as plt
+import argparse
 from collections import Counter
 
-df = pd.read_csv("apothecary_diaries_data.csv", skiprows=4)
+parser = argparse.ArgumentParser(description='Visualize The Apothecary Diaries character network')
+parser.add_argument('--filter', type=str, default='full', 
+                    help='Filter type: "full", "season1", "season2", or arc name (e.g., "Introduction Arc")')
+args = parser.parse_args()
 
+df = pd.read_csv("apothecary_diaries_data.csv", skiprows=4)
 df.columns = df.columns.str.strip()
 
-print("Dataset loaded successfully!")
+print(f"Dataset loaded successfully!")
+print(f"Filter: {args.filter}")
+
+if args.filter.lower() == 'season1':
+    df = df[df['SEASON'] == 1]
+    filter_label = "Season 1"
+elif args.filter.lower() == 'season2':
+    df = df[df['SEASON'] == 2]
+    filter_label = "Season 2"
+elif args.filter.lower() != 'full':
+    df = df[df['ARC'] == args.filter]
+    filter_label = args.filter
+else:
+    filter_label = "Full Dataset (Seasons 1-2)"
+
 print(f"Total interactions: {len(df)}")
 print(f"\nFirst few rows:")
 print(df.head())
@@ -72,13 +91,14 @@ nx.draw_networkx_labels(G, pos,
                         font_weight='bold',
                         font_family='sans-serif')
 
-plt.title("The Apothecary Diaries - Character Relationship Network\n(Node size = Degree Centrality)", 
+plt.title(f"The Apothecary Diaries - Character Relationship Network\n{filter_label} (Node size = Degree Centrality)", 
           fontsize=16, fontweight='bold')
 plt.axis('off')
 plt.tight_layout()
 
-plt.savefig('network_visualization.png', dpi=300, bbox_inches='tight')
-print("\nVisualization saved as 'network_visualization.png'")
+filename_safe = filter_label.replace(' ', '_').replace('/', '_')
+plt.savefig(f'network_visualization_{filename_safe}.png', dpi=300, bbox_inches='tight')
+print(f"\nVisualization saved as 'network_visualization_{filename_safe}.png'")
 
 plt.show()
 
@@ -87,8 +107,8 @@ degrees = [G.degree(node) for node in G.nodes()]
 plt.hist(degrees, bins=20, edgecolor='black', alpha=0.7)
 plt.xlabel('Degree', fontsize=12)
 plt.ylabel('Number of Characters', fontsize=12)
-plt.title('Degree Distribution', fontsize=14, fontweight='bold')
+plt.title(f'Degree Distribution - {filter_label}', fontsize=14, fontweight='bold')
 plt.grid(axis='y', alpha=0.3)
-plt.savefig('degree_distribution.png', dpi=300, bbox_inches='tight')
-print("Degree distribution saved as 'degree_distribution.png'")
+plt.savefig(f'degree_distribution_{filename_safe}.png', dpi=300, bbox_inches='tight')
+print(f"Degree distribution saved as 'degree_distribution_{filename_safe}.png'")
 plt.show()
