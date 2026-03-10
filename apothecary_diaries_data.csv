@@ -6,15 +6,15 @@ ID,SEASON,ARC,EPISODE,START TIME,END TIME,ACTING CHARACTER,RECIEVING CHARACTER,R
 1,1,Introduction Arc,1,6:03,6:14,Maomao,Xiaolan,Friend,Positive,Weak,"Maomao and Xiaolan first meet, Maomao reads something for Xiaolan."
 2,1,Introduction Arc,1,7:09,9:53,Xiaolan,Maomao,Friend,Positive,Weak,Xiaolan gossips to Maomao during lunch and work.
 3,1,Introduction Arc,1,10:41,11:15,Lihua,Gyokuyou,Rivalry,Negative,,Lihua accuses Gyokuyou of cursing her child and slaps her. Gyokuyou wants the docter to examine her child too.
-4,1,Introduction Arc,1,15:10,16:10,Jinshi,Maomao,Servant/Master,Negative,,Jinshi meets Maomao
+4,1,Introduction Arc,1,15:10,16:10,Jinshi,Maomao,Servant/Master,Negative,,Jinshi meets Maomao.
 5,1,Introduction Arc,1,16:58,17:25,Gyokuyou,Maomao,Servant/Master,Positive,Weak,"Jinshi introduces Maomao & Gyokuyou, Gyokuyou thanks Maomao for saving her child's life."
 6,1,Introduction Arc,1,19:58,20:15,Gyokuyou,Maomao,Servant/Master,Positive,Weak,Gyokuyou hires Maomao.
 7,1,Introduction Arc,2,3:42,4:10,Jinshi,Maomao,Servant/Master,Negative,,Jinshi tries to seduce Maomao to keep her in check.
 8,1,Introduction Arc,2,7:00,8:27,Gyokuyou,Maomao,Servant/Master,Positive,Weak,Maomao's first shift as Gyokuyou's poison taster.
 9,1,Introduction Arc,2,10:45,11:10,Jinshi,Maomao,Servant/Master,Negative,,Jinshi tries to seduce Maomao again and fails again.
 10,1,Introduction Arc,2,11:50,13:49,Jinshi,Maomao,Servant/Master,Positive,Weak,"Jinshi asks Maomao advice about a poisoning case, he then asks her to make aphrodisiacs."
-11,1,Introduction Arc,2,18:58,19:42,Maomao,Gyokuyou,Servant/Master,Positive,Weak,Maomao introduces Gyokuyou to chocolate
-12,1,Introduction Arc,2,19:46,20:07,Gyokuyou,Maomao,Servant/Master,Positive,Weak,Gyokuyou suggests Maomao to make some chocolate for the emperor.
+11,1,Introduction Arc,2,18:58,19:42,Maomao,Gyokuyou,Servant/Master,Positive,Weak,Maomao introduces Gyokuyou to chocolate.
+12,1,Introduction Arc,2,19:46,20:07,Gyokuyou,Maomao,Servant/Master,Positive,Weak,Gyokuyou suggests Maomao to make some chocolate for the Emperor.
 13,1,Introduction Arc,2,20:22,20:55,Jinshi,Maomao,Servant/Master,Negative,,"Jinshi annoys Maomao, still maybe trying to seduce her."
 14,1,Introduction Arc,3,4:07,5:07,Xiaolan,Maomao,Friend,Positive,Weak,Xiaolan tells Maomao about the ghost lady rumor in the rear palace.
 15,1,Introduction Arc,3,5:53,6:30,Maomao,Jinshi,Servant/Master,Negative,,Maomao realizes that Jinshi is a high ranking eunuch and theorizes that he's the Emperor's favourite.
@@ -31,11 +31,11 @@ ID,SEASON,ARC,EPISODE,START TIME,END TIME,ACTING CHARACTER,RECIEVING CHARACTER,R
 26,1,Introduction Arc,4,14:01,15:02,Maomao,Lihua,Servant/Master,Positive,Weak,"Lihua asks why Maomao didn't let her die, and Maomao makes her realize she wants to live."
 27,1,Introduction Arc,4,17:30,17:48,Lihua,Maomao,Servant/Master,Positive,Weak,Lihua pets Maomao's head while she sleeps.
 28,1,Introduction Arc,4,18:02,19:49,Maomao,Lihua,Servant/Master,Positive,Weak,"Maomao reassures Lihua that the Emperor still holds affection for her, and then tells her about a secret technique."
-29,1,Introduction Arc,5,3:43,4:35,Maomao,Xiaolan,Friend,Positive,Weak,Maomao shares snacks with xiolan over gossip.
+29,1,Introduction Arc,5,3:43,4:35,Maomao,Xiaolan,Friend,Positive,Weak,Maomao shares snacks with Xiaolan over gossip.
 30,1,Introduction Arc,5,7:25,8:42,Jinshi,Maomao,Servant/Master,Negative,,"Jinshi asks Maomao questions about the colored flame incident, and also about her mushrooms much to her dismay."
-31,1,Introduction Arc,5,10:40,11:10,Gyokuyou,Maomao,Servant/Master,Positive,Weak,Gyokuyou helps Maomao dress up appropriately for the garden party
-32,1,Introduction Arc,5,12:52,12:58,Jinshi,Maomao,Servant/Master,Positive,Weak,Jinshi requests Maomao to make hand warmers for him as well
-33,1,Introduction Arc,5,15:05,15:50,Gyokuyou,Maomao,Servant/Master,Positive,Weak,Gyokuyou gives Maomao jewellry representing her servitude to her
+31,1,Introduction Arc,5,10:40,11:10,Gyokuyou,Maomao,Servant/Master,Positive,Weak,Gyokuyou helps Maomao dress up appropriately for the garden party.
+32,1,Introduction Arc,5,12:52,12:58,Jinshi,Maomao,Servant/Master,Positive,Weak,Jinshi requests Maomao to make hand warmers for him as well.
+33,1,Introduction Arc,5,15:05,15:50,Gyokuyou,Maomao,Servant/Master,Positive,Weak,Gyokuyou gives Maomao jewellry representing her servitude to her.
 34,1,Introduction Arc,5,17:09,19:45,Jinshi,Maomao,Romance,Positive,Weak,Jinshi sees Maomao dressed up for the first time. She explains her lack of freckles. He gives her his hair pin.
 35,1,Introduction Arc,6,8:51,9:19,Lihaku,Maomao,Political Alliance,Positive,Weak,Lihaku (military officer) gives Maomao a hairpin.
 36,1,Introduction Arc,6,9:22,9:49,Lihua,Maomao,Political Alliance,Positive,Weak,Lihua gives Maomao a hairpin.
@@ -45,7 +45,7 @@ ID,SEASON,ARC,EPISODE,START TIME,END TIME,ACTING CHARACTER,RECIEVING CHARACTER,R
 40,1,Introduction Arc,7,10:56,11:56,Xiaolan,Maomao,Friend,Positive,Weak,Xiaolan tells Maomao about using the hairpins to leave the rear palace temporarily.
 41,1,Introduction Arc,7,12:50,15:16,Maomao,Lihaku,Political Alliance,Positive,Weak,Maomao makes a deal to bring Lihaku to the Verdigrus House if he vouches for her to visit home.
 42,1,Introduction Arc,8,17:47,20:46,Jinshi,Maomao,Romance,Negative,,Jinshi gets jealous over Maomao leaving the rear palace with Lihaku. Maomao creates a misunderstanding about her and Lihaku.
-43,1,Introduction Arc,8,20:48,21:04,Gyokuyou,Maomao,Servant/Master,Positive,Weak,Gyokuyou is amused at the misunderstadning that Maomao accidentally created.
+43,1,Introduction Arc,8,20:48,21:04,Gyokuyou,Maomao,Servant/Master,Positive,Weak,Gyokuyou is amused at the misunderstanding that Maomao accidentally created.
 44,1,Introduction Arc,9,2:48,3:05,Gyokuyou,Jinshi,Friend,Positive,Weak,Gyokuyou laughs and explains the misundertanding between him and Maomao to Jinshi.
 45,1,Introduction Arc,9,4:41,10:35,Jinshi,Maomao,Servant/Master,Negative,,Jinshi asks Maomao to investigate the drinking man's death.
 46,1,Introduction Arc,9,11:05,12:13,Jinshi,Maomao,Servant/Master,Positive,Weak,Jinshi gives Maomao a reward of alcohol. Maomao and Jinshi tease each other.
@@ -65,11 +65,11 @@ ID,SEASON,ARC,EPISODE,START TIME,END TIME,ACTING CHARACTER,RECIEVING CHARACTER,R
 60,1,Lakan Arc,13,18:33,18:54,Jinshi,Maomao,Servant/Master,Negative,,Jinshi watches as Maomao deals with people harrassing her. He also asks her about her studying.
 61,1,Lakan Arc,13,19:30,19:45,Maomao,Jinshi,Servant/Master,Negative,,"Jinshi tells Maomao she failed the exam, and now Maomao is officially one of his personal servants."
 62,1,Lakan Arc,13,20:41,20:58,Lakan,Maomao,Family,Negative,,Lakan secretly watches Maomao look at the plants on his property.
-63,1,Lakan Arc,14,3:56,4:41,Jinshi,Maomao,Servant/Master,Negative,,Jinshi informs Maomao she is needed for a job back in the rear palace
-64,1,Lakan Arc,14,5:05,5:46,Maomao,Jinshi,Servant/Master,Negative,,Maomao tries to take advantage of Jinshi by changing the invoice and hiding the teaching material
-65,1,Lakan Arc,14,6:56,9:14,Maomao,Gyokuyou,Servant/Master,Positive,Weak,Maomao teaches Gyokuyou how to please the emperor
-66,1,Lakan Arc,14,6:56,9:14,Maomao,Lihua,Servant/Master,Positive,Weak,Maomao teaches Lihua how to please the emperor
-67,1,Lakan Arc,14,6:56,9:14,Maomao,Loulan,Servant/Master,Negative,,Maomao teaches Loulan how to please the emperor. Loulan ignores her.
+63,1,Lakan Arc,14,3:56,4:41,Jinshi,Maomao,Servant/Master,Negative,,Jinshi informs Maomao she is needed for a job back in the rear palace.
+64,1,Lakan Arc,14,5:05,5:46,Maomao,Jinshi,Servant/Master,Negative,,Maomao tries to take advantage of Jinshi by changing the invoice and hiding the teaching material.
+65,1,Lakan Arc,14,6:56,9:14,Maomao,Gyokuyou,Servant/Master,Positive,Weak,Maomao teaches Gyokuyou how to please the Emperor.
+66,1,Lakan Arc,14,6:56,9:14,Maomao,Lihua,Servant/Master,Positive,Weak,Maomao teaches Lihua how to please the Emperor.
+67,1,Lakan Arc,14,6:56,9:14,Maomao,Loulan,Servant/Master,Negative,,Maomao teaches Loulan how to please the Emperor. Loulan ignores her.
 68,1,Lakan Arc,14,12:19,12:45,Jinshi,Maomao,Servant/Master,Negative,,Jinshi gets jealous over Maomao thanking Gaoshun for giving her the coat instead of him.
 69,1,Lakan Arc,14,13:35,20:24,Maomao,Lihaku,Political Alliance,Positive,Weak,Maomao helps Lihaku investigate the fire in the storage shed
 70,1,Lakan Arc,15,6:04,6:39,Jinshi,Maomao,Servant/Master,Negative,,"Jinshi is interested in what Maomao and Gaoshun are talking about, and then she runs off away from him."
@@ -102,11 +102,11 @@ ID,SEASON,ARC,EPISODE,START TIME,END TIME,ACTING CHARACTER,RECIEVING CHARACTER,R
 97,1,Lakan Arc,22,1:35,2:48,Maomao,Gyokuyou,Friend,Positive,Weak,Maomao is drawing and playing with Gyokuyou's daughter as pregnant Gyokuyou watches.
 98,1,Lakan Arc,22,2:50,3:58,Lakan,Jinshi,Rivalry,Negative,,Lakan gives Jinshi an impossible task of creating blue roses.
 99,1,Lakan Arc,22,4:12,5:59,Jinshi,Maomao,Friend,Positive,Weak,Jinshi asks Maomao if she can get/make the blue roses. Maomao hears him out to help him and to get back at Lakan.
-100,1,Lakan Arc,22,6:01,6:34,Maomao,Lihua,Political Alliance,Positive,Weak,Maomao asks Lihua for permission to use the steam room and maomao gives her the emperors favorite book.
+100,1,Lakan Arc,22,6:01,6:34,Maomao,Lihua,Political Alliance,Positive,Weak,Maomao asks Lihua for permission to use the steam room and Maomao gives her the Emperor's favorite book.
 101,1,Lakan Arc,22,6:42,7:23,Maomao,Jinshi,Friend,Positive,Weak,Maomao shows Jinshi the greenhouse and explains how she aims to achieve the blue roses.
-102,1,Lakan Arc,22,7:31,13:29,Xiaolan,Maomao,Friend,Positive,Weak,Xiaolan arrives to help Maomao on her quest for the blue roses. They also enjoy their breaks together like old times Xiaolan shows Maomao. her manicure.
+102,1,Lakan Arc,22,7:31,13:29,Xiaolan,Maomao,Friend,Positive,Weak,Xiaolan arrives to help Maomao on her quest for the blue roses. They also enjoy their breaks together like old times Xiaolan shows Maomao her manicure.
 103,1,Lakan Arc,22,13:47,14:01,Maomao,Jinshi,Friend,Positive,Weak,Maomao presents the blue roses to Jinshi at the garden party clearly tired from the work.
-104,1,Lakan Arc,22,15:05,15:35,Jinshi,Emperor,Family,Positive,Weak,Jinshi presents the blue roses to the emperor at the garden party.
+104,1,Lakan Arc,22,15:05,15:35,Jinshi,Emperor,Family,Positive,Weak,Jinshi presents the blue roses to the Emperor at the garden party.
 105,1,Lakan Arc,22,16:55,19:15,Jinshi,Maomao,Friend,Positive,Weak,Jinshi meets Maomao after the garden party with a single blue rose. He thanks her for the work and she explains how she did it.
 106,1,Lakan Arc,23,1:54,8:54,Maomao,Lakan,Family,Positive,Weak,"Lakan meets his daughter Maomao for the first time face to face. They play a game of shogi with a bet that if she wins he will buy a courtesan from house Verdigris. Maomao wins, which sets in motion for what she wants."
 107,1,Lakan Arc,23,2:42,8:54,Jinshi,Maomao,Romance,Positive,Weak,Jinshi watches their game closely and is worried about Maomao and the bet.
@@ -137,7 +137,7 @@ ID,SEASON,ARC,EPISODE,START TIME,END TIME,ACTING CHARACTER,RECIEVING CHARACTER,R
 132,2,Perfume Arc,28,20:20,21:43,Maomao,Jinshi,Servant/Master,Negative,,"Maomao suggests that Jinshi acts as the Moon Fairy, much to Jinshi's annoyance."
 133,2,Perfume Arc,29,2:17,4:11,Shisui,Maomao,Friend,Positive,Weak,"Shisui says hi to Maomao. Maomao gets the idea to use moths for the Moon Fairy, and enlists Shisui to help."
 134,2,Perfume Arc,29,10:20,12:10,Maomao,Jinshi,Servant/Master,Positive,Weak,"Jinshi, Maomao, and Gaoshun debrief after the Moon Fairy event. Jinshi pouts and Maomao dries his hair."
-135,2,Perfume Arc,29,12:30,12:45,Xiaolan,Maomao,Friend,Positive,Weak,Xiaolan meets Maomao to tell her shes going to school for the first time. Maomao wishes her luck.
+135,2,Perfume Arc,29,12:30,12:45,Xiaolan,Maomao,Friend,Positive,Weak,Xiaolan meets Maomao to tell her she's going to school for the first time. Maomao wishes her luck.
 136,2,Perfume Arc,29,19:23,21:45,Maomao,Jinshi,Servant/Master,Positive,Weak,Jinshi and Maomao run into each other and talk about the clinic. Jinshi warns Maomao about how only men can legally be doctors.
 137,2,Perfume Arc,30,1:38,2:32,Gyokuyou,Maomao,Servant/Master,Positive,Weak,"Gyokuyou is worried about people finding out that Maomao makes medicine, the clinic lady wants to meet Maomao."
 138,2,Perfume Arc,30,12:02,19:16,Maomao,Lihua,Servant/Master,Positive,Weak,"Maomao reveals her findings to Lihua, that her head lady in waiting is planning to sabotage and poison Lihua and/or Gyokuyou."
@@ -155,7 +155,7 @@ ID,SEASON,ARC,EPISODE,START TIME,END TIME,ACTING CHARACTER,RECIEVING CHARACTER,R
 150,2,Perfume Arc,32,3:57,5:06,Maomao,Xiaolan,Friend,Positive,Weak,Maomao asks Xiaolan if shes seen Shisui during lunch.
 151,2,Perfume Arc,32,7:00,10:29,Maomao,Shisui,Friend,Negative,,Maomao finds Shisui in the forest. She accidentally kills a bug on Maomao's head. She then talks about bugs Maomao is not interested. They talk about the Emperess Dowager.
 152,2,Perfume Arc,33,6:56,13:44,Maomao,Jinshi,Servant/Master,Positive,Weak,Jinshi watches as Maomao explains how she solved the case of why the previous emperor's body is still intact.
-153,2,Perfume Arc,34,3:21,3:42,Gyokuyou,Maomao,Friend,Positive,Weak,"Gyukuyou lets Maomao continue using the shed, and sleep in her old room."
+153,2,Perfume Arc,34,3:21,3:42,Gyokuyou,Maomao,Friend,Positive,Weak,"Gyokuyou lets Maomao continue using the shed, and sleep in her old room."
 154,2,Perfume Arc,34,8:45,19:39,Shisui,Maomao,Friend,Positive,Weak,Maomao and Shisui listen to and tell ghost stories in a group. They survive what is essentially an attempted murder. They discuss the truths surrounding some of the ghost stories.
 155,2,Perfume Arc,35,2:24,8:22,Jinshi,Maomao,Servant/Master,Positive,Weak,Jinshi tells Maomao he needs her to come with him for a hunting trip. Jinshi tries to explain what's happening.
 156,2,Perfume Arc,35,2:24,4:20,Jinshi,Gyokuyou,Friend,Negative,,Gyokuyou and Jinshi fight over Maomao. She teases him over not being able to call Maomao by her name.
@@ -174,7 +174,7 @@ ID,SEASON,ARC,EPISODE,START TIME,END TIME,ACTING CHARACTER,RECIEVING CHARACTER,R
 169,2,Shi Clan Rebellion Arc,37,3:55,10:05,Shisui,Maomao,Friend,Positive,Weak,"Maomao, Xiaolan and Shisui hang out together. They look for connections with concubines in the bathhouse by giving out massages."
 170,2,Shi Clan Rebellion Arc,37,10:08,10:43,Gyokuyou,Maomao,Friend,Positive,Weak,Gyokuyou give Maomao permission to give massages at the bathhouse to other concubines in order to gather gossip.
 171,2,Shi Clan Rebellion Arc,37,12:10,13:42,Xiaolan,Maomao,Friend,Positive,Weak,"Xiaolan, Maomao and Shisui talk about the new eunuchs."
-172,2,Shi Clan Rebellion Arc,37,12:10,13:42,Xiaolan,Shisui,Friend,Positive,Weak,Xiaolan tells Shisui about the new eunuch that shes heard about.
+172,2,Shi Clan Rebellion Arc,37,12:10,13:42,Xiaolan,Shisui,Friend,Positive,Weak,Xiaolan tells Shisui about the new eunuch that she's heard about.
 173,2,Shi Clan Rebellion Arc,37,12:10,13:42,Shisui,Maomao,Friend,Positive,Weak,"Xiaolan, Maomao and Shisui talk about the new eunuchs."
 174,2,Shi Clan Rebellion Arc,38,2:08,3:55,Jinshi,Maomao,Romance,Negative,,Jinshi assigns Maomao to solve Lishu's ghost problem. Maomao vows to keep her lips sealed about the incident.
 175,2,Shi Clan Rebellion Arc,38,3:11,3:55,Jinshi,Gyokuyou,Friend,Negative,,Jinshi and Gyokuyou fight over Maomao again. Gyokuyou is surprised over Jinshi calling Maomao by name and accepts easier this time.
@@ -201,12 +201,12 @@ ID,SEASON,ARC,EPISODE,START TIME,END TIME,ACTING CHARACTER,RECIEVING CHARACTER,R
 198,2,Shi Clan Rebellion Arc,45,8:15,8:49,"Loulan, Shisui",Maomao,Friend,Positive,Weak,"Maomao takes the fall for another incident protecting the kid. Loulan, knowing Maomao's poison immunity and expertise, helps her avoid getting thrown in the cold, winter water, by suggesting to Shenmei that they should throw her in with the snakes instead."
 199,2,Shi Clan Rebellion Arc,45,13:58,22:14,Maomao,"Loulan, Shisui",Friend,Positive,Weak,"Jinshi's army approaches the stronghold. As Loulan/Shisui blows up the gunpowder storage, Maomao runs into her. Loulan tells Maomao to evacuate but she instead follows her. Loulan reveals her backstory, and how she made the kids drink poison before the army attacked, seemingly to give them a painless death."
 200,2,Shi Clan Rebellion Arc,46,1:31,7:00,"Loulan, Shisui",Maomao,Friend,Positive,Weak,"Loulan explains how she never intended for Maomao to meet her evil mother Shenmei, and for things to go so far. Maomao tries to help Shisui, reaching out to her, but Loulan won't retreat. Maomao gives Shisui Jinshi's hair pin, and asks her to return it someday."
-201,2,Shi Clan Rebellion Arc,46,7:10,9:36,Lakan,Jinshi,Rivalry,Positive,Weak,"As the army is preparing in the snowy mountains Lakan explains that if Jinshi was even a little late he would have dragged him out physically. They go over the plan to take the stronghold. Lakan exaclaims to himself just wait Maomao, Papas coming to save you!"
-202,2,Shi Clan Rebellion Arc,46,16:45,17:36,Lihaku,Jinshi,Political Alliance,Positive,Weak,"Lihaku explains to Jinshi that its dangerous and he should stay outside the stronghold for his protection. Jinshi explains to him that Maomao is held captive here, and that she's Lakan's daughter. Lihaku now realizes that Jinshi needs to do everything he can to avoid making another political enemy."
+201,2,Shi Clan Rebellion Arc,46,7:10,9:36,Lakan,Jinshi,Rivalry,Positive,Weak,"As the army is preparing in the snowy mountains Lakan explains that if Jinshi was even a little late he would have dragged him out physically. They go over the plan to take the stronghold. Lakan exaclaims to himself just wait Maomao, Papa's coming to save you!"
+202,2,Shi Clan Rebellion Arc,46,16:45,17:36,Lihaku,Jinshi,Political Alliance,Positive,Weak,"Lihaku explains to Jinshi that it's dangerous and he should stay outside the stronghold for his protection. Jinshi explains to him that Maomao is held captive here, and that she's Lakan's daughter. Lihaku now realizes that Jinshi needs to do everything he can to avoid making another political enemy."
 203,2,Shi Clan Rebellion Arc,46,18:17,19:27,Jinshi,Maomao,Romance,Positive,Strong,Jinshi breaks into the room Maomao is in. Maomao asks him to protect her and realizes how much she missed talking to him. Maomao fully accepts his true identity as the prince. Jinshi continues on with the battle and leaves Lihaku to protect Maomao.
 204,2,Shi Clan Rebellion Arc,46,19:30,21:58,Lihaku,Maomao,Friend,Positive,Strong,"Lihaku confirms that Maomao and Lakan's daughter are the same person, and questions what Maomao's doing here. Lihaku fulfills her wish to get the kids out to give them a proper burial. Lihaku begins to escort her out."
-205,2,Shi Clan Rebellion Arc,47,5:16,19:24,Loulan,Jinshi,Rivalry,Negative,,"Loulan holds Jinshi at gunpoint and asks him to follow her. He chooses to oblige. She explains the plot of her evil mother and the Shi Clan. Her mother tries to shoot her but it backfires on her. Loulan asks Jinshi to spare those who have died once, and she adds a scar to his face."
-206,2,Shi Clan Rebellion Arc,47,19:26,21:50,Loulan,Jinshi,Rivalry,Positive,Weak,"Loulan dances as part of her act, waiting to die. Jinshi watches, knowing she needs to die even though she had been the one to root out the evil in the Empire. Loulan is shot off the roof."
+205,2,Shi Clan Rebellion Arc,47,5:16,19:24,"Loulan, Shisui",Jinshi,Rivalry,Negative,,"Loulan holds Jinshi at gunpoint and asks him to follow her. He chooses to oblige. She explains the plot of her evil mother and the Shi Clan. Her mother tries to shoot her but it backfires on her. Loulan asks Jinshi to spare those who have died once, and she adds a scar to his face."
+206,2,Shi Clan Rebellion Arc,47,19:26,21:50,"Loulan, Shisui",Jinshi,Rivalry,Positive,Weak,"Loulan dances as part of her act, waiting to die. Jinshi watches, knowing she needs to die even though she had been the one to root out the evil in the Empire. Loulan is shot off the roof."
 207,2,Shi Clan Rebellion Arc,48,1:43,10:07,Jinshi,Maomao,Romance,Positive,Strong,"Jinshi checks up on Maoamo. Maomao takes a look at the injury on Jinshi's face. Jinshi delivers news of Shisui's death. Jinshi wants to rest with Maomao. Maomao tells Jinshi that he'd look good with more scars, and that he looks more manly. Jinshi almost kisses Maomao, before she notices the supposedly dead kids waking up. Jinshi asks her to continue another time and she says yes while distracted."
 208,2,Shi Clan Rebellion Arc,48,15:29,16:27,Xiaolan,Maomao,Friend,Positive,Strong,Maomao reads a letter that Xiaolan left for her. Xiaolan has left the rear palace for more work. Maomao sheds a tear.
 209,2,Shi Clan Rebellion Arc,48,17:20,22:03,Jinshi,Maomao,Romance,Positive,Strong,"Jinshi stops Maomao as she's about to comedically cut off her pinky. Jinshi visits and updates Maomao on the aftermath. Maomao tells Jinshi what happened to his hairstick. Jinshi bites Maomao's neck and asks her to pick up where they left off. It looks like they're about to, before the kid cockblocks Jinshi. Maomao asks him to rest, Jinshi chooses to rest while using her lap as his pillow and she lets him. Jinshi naps on Maomao."

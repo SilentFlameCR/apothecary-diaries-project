@@ -73,20 +73,20 @@ plt.figure(figsize=(16, 12))
 pos = nx.spring_layout(G, k=0.5, iterations=50, seed=42)
 
 min_size = 1000
-max_size = 14000
+max_size = 10000
 node_sizes = [min_size + (degree_cent[node] * (max_size - min_size)) for node in G.nodes()]
 
 nx.draw_networkx_nodes(G, pos, 
                        node_size=node_sizes,
-                       node_color='lightblue',
+                       node_color='#4db36f',
                        alpha=0.7,
                        edgecolors='black',
                        linewidths=1.5)
 
 nx.draw_networkx_edges(G, pos, 
                        width=1.0,
-                       alpha=0.3,
-                       edge_color='gray')
+                       alpha=1.0,
+                       edge_color='black')
 
 nx.draw_networkx_labels(G, pos, 
                         font_size=17,
