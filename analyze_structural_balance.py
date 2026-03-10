@@ -58,14 +58,24 @@ for idx, row in df.iterrows():
     edge_sentiments[edge].append(sign)
 
 for edge, signs in edge_sentiments.items():
-    avg_sign = sum(signs) / len(signs) if signs else 0
+    positive_count = sum(1 for s in signs if s == 1)
+    negative_count = sum(1 for s in signs if s == -1)
     
-    dominant_sign = 1 if avg_sign > 0 else (-1 if avg_sign < 0 else 0)
+    if positive_count > negative_count:
+        dominant_sign = 1
+    elif negative_count > positive_count:
+        dominant_sign = -1
+    else:
+        dominant_sign = 1 if positive_count > 0 else 0
+    
+    avg_sign = sum(signs) / len(signs) if signs else 0
     
     G_signed.add_edge(edge[0], edge[1], 
                      sign=dominant_sign,
                      avg_sentiment=avg_sign,
-                     interaction_count=edge_counts[edge])
+                     interaction_count=edge_counts[edge],
+                     positive_count=positive_count,
+                     negative_count=negative_count)
 
 print(f"\n{'='*80}")
 print(f"SIGNED NETWORK STATISTICS")
@@ -200,10 +210,9 @@ for char in sorted(char_sentiment_profile.keys(), key=lambda x: char_sentiment_p
 fig, axes = plt.subplots(2, 2, figsize=(16, 12))
 
 sentiment_counts = [len(positive_edges) if isinstance(positive_edges, list) else positive_edges, 
-                    len(negative_edges) if isinstance(negative_edges, list) else negative_edges, 
-                    len(neutral_edges) if isinstance(neutral_edges, list) else neutral_edges]
-sentiment_labels = ['Positive', 'Negative', 'Neutral']
-colors = ['#2ecc71', '#e74c3c', '#95a5a6']
+                    len(negative_edges) if isinstance(negative_edges, list) else negative_edges]
+sentiment_labels = ['Positive', 'Negative']
+colors = ['#2ecc71', '#e74c3c']
 
 axes[0, 0].pie(sentiment_counts, labels=sentiment_labels, autopct='%1.1f%%', 
                colors=colors, startangle=90, textprops={'fontsize': 12})
