@@ -1,0 +1,3 @@
+nodes,signs,product,balanced
+"['Jinshi', 'Maomao', 'Lakan']","(1, 1, -1)",-1,False
+"['Jinshi', 'Maomao', 'Lihaku']","(1, 1, 1)",1,True
